@@ -1,5 +1,5 @@
 # Toronto Rental Data Dashboard
-## A detailed dashboard showcasing various graphs and charts of Toronto Real Estate Data
+A detailed dashboard showcasing various graphs and charts of Toronto Real Estate Data
 
 ![](Images/dashboard.gif)
 
